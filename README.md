@@ -1,7 +1,9 @@
-# >devtodo.txt - releases
+# devtodo.txt
 
 [![Latest Release](https://img.shields.io/github/v/release/bambucha3/devtodotxt-releases?label=download&color=blue)](https://github.com/bambucha3/devtodotxt-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Web-lightgrey)]()
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20Web-lightgrey)]()
+[![License](https://img.shields.io/badge/license-proprietary%20%7C%20free%20for%20personal%20use-green)]()
+[![Built with Tauri](https://img.shields.io/badge/built%20with-Tauri%202-FFC131?logo=tauri&logoColor=white)](https://tauri.app)
 
 A keyboard-first daily task manager using the [todo.txt](http://todotxt.org/) format.
 
@@ -51,6 +53,14 @@ Download and run the `.exe` installer.
 - **Analytics** - Umami
 - **Build** - Vite 7, GitHub Actions CI/CD
 - **Font** - JetBrains Mono
+
+## License
+
+Copyright (c) 2026 bambucha3. All rights reserved.
+
+Free for personal use. You may not redistribute, modify, or reverse-engineer the software. This app is provided **"as is"** without warranty of any kind. The author is not liable for any damages arising from the use of this app, including data loss or service interruptions.
+
+By using devtodo.txt, you agree to these terms.
 
 ## Links
 
